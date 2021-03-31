@@ -1,0 +1,18 @@
+{
+  "name": "snowpack-bug-report-repro",
+  "version": "0.0.1",
+  "description": "Bug stuff",
+  "main": "index.js",
+  "author": "Ezequiel Schwartzman (zequez@gmail.com)",
+  "license": "MIT",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "snowpack": "^3.1.2"
+  },
+  "dependencies": {}
+}
